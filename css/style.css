@@ -6,7 +6,7 @@ body {
 }
 .debug{
     border: 1px solid black;
-    border-radius: 50%;
+    border-radius: 1rem;
 
 }
 p{
