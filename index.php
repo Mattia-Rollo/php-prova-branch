@@ -22,17 +22,22 @@
 </head>
 
 <body>
-    <div class="debug p-4">
+    <div class="debug p-4 m-5">
         <h1 class="p-3">Titolo Grande</h1>
-        <div class="d-flex">
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, consequatur? Assumenda necessitatibus
-                eius
-                laborum corrupti iste soluta incidunt officia illo impedit quam cum architecto fugiat corporis,
-                perspiciatis,
-                nobis voluptatibus sed.
-            </p>
-            <img src="https://api.lorem.space/image/game?w=300&h=440" alt="">
+        <div class="d-flex gap-3 ">
+            <div class="w-30"><img src="https://api.lorem.space/image/dota?w=300&h=440" alt=""></div>
+            <div class="w-25">
+                <h3 class="py-4">Titolo Gioco</h3>
+                <p>
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga temporibus eligendi iure. Pariatur
+                    fugiat sequi facilis mollitia voluptates minima, vel veniam dolorem reiciendis vero molestiae ipsam
+                    praesentium recusandae repudiandae harum?
+
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facere atque, est amet aliquid doloremque
+
+                </p>
+            </div>
+
         </div>
     </div>
     <h1 class="p-3">Titolo Grande</h1>
