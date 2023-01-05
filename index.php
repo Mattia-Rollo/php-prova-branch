@@ -22,22 +22,21 @@
 </head>
 
 <body>
-    <div class="debug d-flex">
-        <h1>Titolo Grande</h1>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, consequatur? Assumenda necessitatibus eius
-            laborum corrupti iste soluta incidunt officia illo impedit quam cum architecto fugiat corporis,
-            perspiciatis,
-            nobis voluptatibus sed.
-        </p>
-        <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem vero non repellat officiis distinctio, fugiat,
-            nisi
-            quae temporibus impedit saepe delectus est debitis. Repellat voluptas, tenetur velit officia veritatis ab!
-        </p>
+    <div class="debug p-4">
+        <h1 class="p-3">Titolo Grande</h1>
+        <div class="d-flex">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, consequatur? Assumenda necessitatibus
+                eius
+                laborum corrupti iste soluta incidunt officia illo impedit quam cum architecto fugiat corporis,
+                perspiciatis,
+                nobis voluptatibus sed.
+            </p>
+            <img src="https://api.lorem.space/image/game?w=300&h=440" alt="">
+        </div>
     </div>
-    <div class="debug">
-        <h1>Titolo Grande</h1>
+    <h1 class="p-3">Titolo Grande</h1>
+    <div class="debug d-flex">
         <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, consequatur? Assumenda necessitatibus eius
             laborum corrupti iste soluta incidunt officia illo impedit quam cum architecto fugiat corporis,
