@@ -6,11 +6,13 @@ body {
 }
 .debug{
     border: 1px solid black;
+    border-radius: 50%;
 
 }
 p{
     color: aqua;
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
+    
 
 }
