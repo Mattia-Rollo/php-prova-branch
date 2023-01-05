@@ -2,6 +2,9 @@ body {
     background-color: navy;
     color: bisque;
     font-size: medium;
+
+}
+.debug{
     border: 1px solid black;
 
 }
