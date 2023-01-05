@@ -4,3 +4,6 @@ body {
     font-size: medium;
     border: 1px solid black;
 }
+p{
+    color: aqua;
+}
